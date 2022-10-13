@@ -29,7 +29,7 @@ setup_args = dict(
 )
 
 install_requires = [
-    'tensorflow',
+    'tensorflow-macos',
     'pandas >= 0.25',
     'numpy',
     'unidecode',
